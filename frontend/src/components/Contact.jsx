@@ -57,7 +57,7 @@ const Contact = () => {
       <div className="banner">
         <div className="item">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.4831190274895!2d77.63842827430844!3d28.973051668538023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c668fdea4d87f%3A0x8795def814a486e7!2sMeerut%20Institute%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sin!4v1718257243058!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223359.8033521538!2d77.53414467692117!3d28.98746206290877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c64f457b66325%3A0x42faa83387a6be5e!2sMeerut%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1718265819056!5m2!1sen!2sin"
           
             style={{ border: 0, width: "100%", height: "450px" }}
             allowFullScreen=""
@@ -97,7 +97,7 @@ const Contact = () => {
             <button type="submit">Send</button>
           </form>
         </div>
-       
+        {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223359.8033521538!2d77.53414467692117!3d28.98746206290877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c64f457b66325%3A0x42faa83387a6be5e!2sMeerut%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1718265819056!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
       </div>
     </div>
   </>

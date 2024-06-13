@@ -4,14 +4,13 @@ import { Link } from "react-scroll";
 const HeroSection = () => {
   return (
     <section className="hero">
-      <img src="/restaurant.jpg" alt="restaurant" />
+      <img src="/eventimgs.webp" alt="restaurant" />
       <div className="item">
-        <h3>Dream Maker</h3>
+        <h3>Tailored Events, Timeless Memories</h3>
         <div>
-          <h1>Your Personal Dream Maker</h1>
+          <h1>Crafting Unforgettable Moments, Every Time</h1>
           <p>
-            We believe that it is all about the BIG DREAMS and the samll
-            details!
+          Streamline planning with our comprehensive, user-friendly event management platform.
           </p>
           <Link to="contact" spy={true} smooth={true} duration={500}>
             BOOK NOW
